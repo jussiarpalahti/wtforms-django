@@ -24,6 +24,7 @@ setup(
     ],
     packages=[
         'wtforms_django',
+        'wtforms_django.templatetags',
     ],
     package_data={
     },
